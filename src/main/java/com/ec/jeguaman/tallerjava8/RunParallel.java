@@ -18,7 +18,7 @@ public class RunParallel {
         long datosParallel = imprimirParallel();
         System.out.println("\n\nPROCESAMIENTO DE DATOS");
         System.out.println("El tiempo de ejecución de los datos en Normal es: " + datosNormal);
-        System.out.println("El tiempo de ejecucuón de los datos en Parallel es: " + datosParallel);
+        System.out.println("El tiempo de ejecución de los datos en Parallel es: " + datosParallel);
     }
 
     public static long imprimirNormal() {
